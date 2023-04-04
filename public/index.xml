@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Panic Key - Una tecla es suficiente</title>
+    <link>https://panic-key.tk/</link>
+    <description>Recent content on Panic Key - Una tecla es suficiente</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 04 Apr 2023 23:46:02 +0200</lastBuildDate><atom:link href="https://panic-key.tk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arranque en Frio</title>
+      <link>https://panic-key.tk/posts/arranque-en-frio/</link>
+      <pubDate>Tue, 04 Apr 2023 23:46:02 +0200</pubDate>
+      
+      <guid>https://panic-key.tk/posts/arranque-en-frio/</guid>
+      <description>Cerrando el círculo Resulta curioso que después de empezar con páginas estáticas en HTML pelado y poco más, pasar a sitios dinámicos, foros, CMSs, de ahí a las redes sociales y el microblogging&amp;hellip; después de todas esas modas y tendencias, acabemos buscando de nuevo la simpleza de sitios escritos en un bloc de notas (aunque ahora dejemos la generación del código a frameworks o aplicaciones dedicadas).
+Y es que los que de verdad vivimos de esto, nos hartamos de chorradas marketinianas y tendencias forzadas y somos conscientes de que lo mejor es mantener las cosas simples.</description>
+    </item>
+    
+  </channel>
+</rss>

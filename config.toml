@@ -1,0 +1,4 @@
+baseURL = 'https://panic-key.tk/'
+languageCode = 'es-es'
+title = 'Panic Key - Una tecla es suficiente'
+theme = 'ananke'
